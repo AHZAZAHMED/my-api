@@ -14,32 +14,29 @@ const myInfo = {
     "Python",
     "OpenAI Agent SDK"
   ],
-  education: "BCE at Bahria University Karachi Campus",
+  education: "Currently pursuing Bachlor's in Computer Engineering from Bahria University.",
   projects: [
     {
       name: "Nike UI Website",
       description: "A responsive and modern Nike product landing page with Tailwind CSS and animations.",
-      github: "",
-      vercel: ""
+      github: "https://github.com/AHZAZAHMED/nikeui",
+      vercel: "https://nikeui-orcin.vercel.app/"
     },
     {
       name: "Countdown Timer",
       description: "A customizable countdown timer built with JavaScript and styled using Tailwind.",
-      github: "",
-      vercel: ""
+      github: "https://github.com/AHZAZAHMED/Frontend-Projects/tree/main/countdown-timer",
+      vercel: "https://frontend-projects-uh4q.vercel.app/"
     },
     {
       name: "Portfolio Website",
       description: "A personal portfolio built with Next.js showcasing my projects, resume, and contact info.",
-      github: "",
-      vercel: ""
     }
   ],
   contact: {
     email: "ahzaz@example.com",
     linkedin: "https://linkedin.com/in/ahzazahmed",
-    github: "",
-    vercel: ""
+    github: "https://github.com/AHZAZAHMED",
   }
 };
 
