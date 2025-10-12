@@ -34,8 +34,8 @@ const myInfo = {
     }
   ],
   contact: {
-    email: "ahzaz@example.com",
-    linkedin: "https://linkedin.com/in/ahzazahmed",
+    email: "ahzazahmed159@gmail.com.com",
+    linkedin: "https://www.linkedin.com/in/ahzaz-ahmed-a41606277/",
     github: "https://github.com/AHZAZAHMED",
   }
 };
